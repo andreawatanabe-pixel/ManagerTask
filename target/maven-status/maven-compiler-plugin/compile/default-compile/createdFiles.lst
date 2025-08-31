@@ -1,0 +1,5 @@
+br/com/faculdade/manager_task/dto/RequestTask.class
+br/com/faculdade/manager_task/model/Task.class
+br/com/faculdade/manager_task/repository/TaskRepository.class
+br/com/faculdade/manager_task/controller/TaskController.class
+br/com/faculdade/manager_task/ManagerTaskApplication.class
